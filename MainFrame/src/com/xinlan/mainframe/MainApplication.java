@@ -22,8 +22,8 @@ public class MainApplication extends Application {
 	}
 
 	/**
+	 * 
 	 * 初始化图片载入控件
-	 * https://github.com/nostra13/Android-Universal-Image-Loader
 	 */
 	private void initImageLoader() {
 		File cacheDir = StorageUtils.getCacheDirectory(this);
