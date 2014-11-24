@@ -4,5 +4,11 @@
     <string name="app_name">MainFrame</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="images">%d images</string>
+    <string name="error">Error</string>
+    <string name="save">Save</string>
+    <string name="saving">Saving...</string>
+    <string name="external_not_available">External storage not available</string>
+    <string name="no_images">No images found</string>
 
 </resources>
