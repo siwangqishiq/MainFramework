@@ -55,5 +55,4 @@ public class NetClient {
 		params.add("v1", "ÄãºÃ ÊÀ½ç");
 		client.post(url, params, responseHandler);
 	}
-	
 }// end class
